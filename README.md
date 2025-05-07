@@ -1,11 +1,4 @@
 # coding_exercises_
-Coding exercises in Python / C++ / Go
-
-- two number sum with list comprehension
-Two Sum - Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 
- You may assume that each input would have exactly one solution, and you may not use the same element twice. 
- You can return the answer in any order.
-
 # Purpose Statement
 This repository does not represent my professional coding skills or production-level work. It serves as a personal playground and learning environment specifically designed for:
 
@@ -27,3 +20,14 @@ A showcase of my best work or coding practices
 A representation of how I write production code
 A complete or polished software project
 Code intended for deployment in real-world applications
+
+# Coding exercises in Python / C++ / Go
+
+- two number sum with list comprehension
+Two Sum - Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 
+ You may assume that each input would have exactly one solution, and you may not use the same element twice. 
+ You can return the answer in any order.
+
+- squared array 
+Given an array of integers that is sorted in ascending order, return a new array containing the squares of each number, also sorted in ascending order.
+
